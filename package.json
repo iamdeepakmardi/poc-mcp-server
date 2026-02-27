@@ -1,0 +1,29 @@
+{
+  "name": "poc-mcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdeepakmardi/poc-mcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/iamdeepakmardi/poc-mcp-server/issues"
+  },
+  "homepage": "https://github.com/iamdeepakmardi/poc-mcp-server#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.2",
+    "typescript": "^5.9.3"
+  }
+}
